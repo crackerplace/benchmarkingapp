@@ -1,2 +1,4 @@
 # benchmarkingapp
-https://www.techempower.com/benchmarks/ app with support for java 7 and tomcat deployment
+https://github.com/TechEmpower/FrameworkBenchmarks/tree/master/frameworks/Java/servlet
+
+Modified the above app to support java 7 and related postgres driver and for tomcat deployment.
