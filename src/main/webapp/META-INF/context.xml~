@@ -1,0 +1,8 @@
+<Context>
+
+  <Resource name="jdbc/hello_world" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="postgres" password="root" 
+               driverClassName="org.postgresql.Drive"
+               url="jdbc:postgresql://localhost:5432/workloadtest"/>
+</Context>
